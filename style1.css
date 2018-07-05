@@ -1,0 +1,31 @@
+body{
+	background-color: rgb(255,165,0);
+}
+h1.heading{
+	text-align: center;
+}
+h2.subheading{
+	border-style: solid;
+	background-color: grey;
+}
+div.para{
+	text-indent: 50px;
+}
+table,td,th{
+ 	border:2px grey;
+	text-align:left;
+}
+table{
+	border-collapse :collapse;
+	width:100%;
+}
+th,td{
+	padding:15px;
+}
+th{
+	background-color:red;
+}
+
+p.disp{
+	display: inline;
+}
