@@ -5,8 +5,8 @@ h1.heading{
 	text-align: center;
 }
 h2.subheading{
-	border-style: solid;
-	background-color: grey;
+	border-style: hidden;
+	background-color: white;
 }
 div.para{
 	text-indent: 50px;
